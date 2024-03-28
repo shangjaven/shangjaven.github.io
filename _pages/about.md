@@ -69,17 +69,15 @@ Renxing Li, **Zhiwei Shang**, Chunhua Zheng, Huiyun Li, Qing Liang, Yunduan Cui�
 Zhiwei Shang, Huiyun Li, Yunduan Cui✉️.
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Awards
+- *2022.12*, Outstanding Graduate Student Award of Dean's Innovation Award of Shenzhen Institute of Advanced Integration Technology, Chinese Academy of Sciences and The Chinese University of Hong Kong (There are only **17 people** in the whole institute).
+- *2019.05* Outstanding Project of **Provincial** Student Innovation and Entrepreneurship Training Program (**Top 10%**)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Talks
+- *2024.04*, Guest Lecture of Reinforcement Learning, Hong Kong University of Science and Technology, Guangzhou Campus. 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# 💻 Services
+<!-- - Conference Reviewer for ICML, NeurIPS, ICLR, AISTATS, ACML, AAAI, IJCAI, CIKM, SIGKDD. -->
+- Journal Reviewer for TIV.
