@@ -23,25 +23,18 @@ Before this, I received Master of Electronic and Information Engineering in Comp
 
 My research interests lie in the engineering applications of artificial intelligence, especially reinforcement learning, and in particular in the development of robust and efficient control algorithms for autonomous vehicles and robots operating in complex environments.
 
+# 📖 Educations
+- *2023.08 - present*, Hong Kong University of Science and Technology (HKUST), Guangzhou Campus, Research Assistant.
+- *2020.09 - 2023.06*, University of Chinese Academy of Sciences (UCAS), Master of Electronic and Information Engineering in Computer Technology.
+- *2016.09 – 2020.06*, Sichuan University (SCU), Bachelor of Engineering in Hydrology and Water Resources Engineering.
+
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp; A manuscript submitted to *IROS 2024* 
 
 # 📝 Publications 
+\* Co-first author, ✉️ Corresponding author.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
