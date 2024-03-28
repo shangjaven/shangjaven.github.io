@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiwei Shang"
-description              : "Zhiwei Shang is a research assistant in the HKUST(GZ)."
+description              : "Focusing on Reinforcement Learning and Robot Learning."
 repository               : "shangjaven/shangjaven.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhiwei Shang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "The Hong Kong University of Science and Technology (Guangzhou)"
+  bio              : "Research Assistant at HKUST"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
