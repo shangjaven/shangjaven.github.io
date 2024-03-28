@@ -23,17 +23,50 @@ Before this, I received Master of Electronic and Information Engineering in Comp
 
 My research interests lie in the engineering applications of artificial intelligence, especially reinforcement learning, and in particular in the development of robust and efficient control algorithms for autonomous vehicles and robots operating in complex environments.
 
-# 📖 Educations
+# 📖 Educations & Experiences
 - *2023.08 - present*, Hong Kong University of Science and Technology (HKUST), Guangzhou Campus, Research Assistant.
 - *2020.09 - 2023.06*, University of Chinese Academy of Sciences (UCAS), Master of Electronic and Information Engineering in Computer Technology.
 - *2016.09 – 2020.06*, Sichuan University (SCU), Bachelor of Engineering in Hydrology and Water Resources Engineering.
 
 # 🔥 News
-- *2022.02*: &nbsp; A manuscript submitted to *IROS 2024* 
+- *2024.03*: &nbsp; A manuscript submitted to *IROS 2024* 
+- *2023.12*: &nbsp; A manuscript submitted to *IV 2024*
 
 # 📝 Publications 
 \* Co-first author, ✉️ Corresponding author.
 
+### Working Papers
+- ``IROS 2024`` Effective Reinforcement Learning Control using Conservative Soft Actor-Critic.  
+<!--[[paper]](https://ieeexplore.ieee.org/document/10313993) -->
+<!-- [[code]](https://github.com/AndrewZhou924)   -->
+**Zhiwei Shang\***, Yunduan Cui\*, Wenjun Huang, Meixin Zhu✉️, Chenjia Bai, Di Chen, Xinyi Yuan.
+
+- ``IV 2024`` Learning Realistic and Reactive Traffic Agents.  
+<!--[[paper]](https://ieeexplore.ieee.org/document/10313993) -->
+<!-- [[code]](https://github.com/AndrewZhou924)   -->
+Meixin Zhu✉️, Di Chen, Xinyi Yuan, **Zhiwei Shang**, Chenxi Liu.
+
+### Published / Accepted Papers
+
+- ``IEEE TNNLS`` Relative Entropy Regularized Sample-Efficient Reinforcement Learning With Continuous Actions.  
+[[paper]](https://ieeexplore.ieee.org/document/10313993)
+<!-- [[code]](https://github.com/AndrewZhou924)   -->
+**Zhiwei Shang**, Renxing Li, Chunhua Zheng, Huiyun Li, Yunduan Cui✉️.
+
+- ``Applied Intelligence`` Efficient distributional reinforcement learning with Kullback-Leibler divergence regularization.  
+[[paper]](https://link.springer.com/article/10.1007/s10489-023-04867-z)
+<!-- [[code]](https://github.com/AndrewZhou924)   -->
+Li Renxing, **Zhiwei Shang**, Chunhua Zheng, Huiyun Li, Qing Liang, Yunduan Cui✉️.
+
+- ``PRAI 2022`` Dynamic Policy Programming with Descending Regularization for Efficient Reinforcement Learning Control.  
+[[paper]](https://ieeexplore.ieee.org/abstract/document/9904283)
+<!-- [[code]](https://github.com/AndrewZhou924)   -->
+Renxing Li, **Zhiwei Shang**, Chunhua Zheng, Huiyun Li, Qing Liang, Yunduan Cui✉️.
+
+- ``ROBIO 2021`` Shiftable Dynamic Policy Programming for Efficient and Robust Reinforcement Learning Control.  
+[[paper]](https://ieeexplore.ieee.org/document/9739232)
+<!-- [[code]](https://github.com/AndrewZhou924)   -->
+Zhiwei Shang, Huiyun Li, Yunduan Cui✉️.
 
 
 # 🎖 Honors and Awards
