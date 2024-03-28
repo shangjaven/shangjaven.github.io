@@ -23,6 +23,8 @@ Before this, I received Master of Electronic and Information Engineering in Comp
 
 My research interests lie in the engineering applications of artificial intelligence, especially reinforcement learning, and in particular in the development of robust and efficient control algorithms for autonomous vehicles and robots operating in complex environments.
 
+<span class='anchor' id='e-e'></span>
+
 # 📖 Educations & Experiences
 - *2023.08 - present*, Hong Kong University of Science and Technology (HKUST), Guangzhou Campus, Research Assistant.
 - *2020.09 - 2023.06*, University of Chinese Academy of Sciences (UCAS), Master of Electronic and Information Engineering in Computer Technology.
