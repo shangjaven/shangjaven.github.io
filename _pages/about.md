@@ -63,9 +63,7 @@ My research interests lie in the engineering applications of artificial intellig
 </div>
 </div>
 
-- `AAAI 2024` [Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling](https://arxiv.org/abs/2312.11947), Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS)
-
-- ``IV 2024`` Learning Realistic and Reactive Traffic Agents.  
+- <span class="badge badge-primary">``IV 2024``</span> Learning Realistic and Reactive Traffic Agents.  
 <!--[[paper]](https://ieeexplore.ieee.org/document/10313993) -->
 <!-- [[code]](https://github.com/AndrewZhou924)   -->
 Meixin Zhu✉️, Di Chen, Xinyi Yuan, **Zhiwei Shang**, Chenxi Liu.
