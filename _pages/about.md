@@ -37,7 +37,7 @@ My research interests lie in the engineering applications of artificial intellig
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2024.03*: &nbsp; 🎉🎉 One paper is accepted by the 35th IEEE Intelligent Vehicles Symposium (*IV 2024*).
+- *2024.03*: &nbsp; 🎉🎉 One paper is accepted by the 35th IEEE Intelligent Vehicles Symposium (IV 2024).
 - *2024.03*: &nbsp; A manuscript submitted to *IROS 2024* 
 
 <span class='anchor' id='pub'></span>
@@ -47,7 +47,7 @@ My research interests lie in the engineering applications of artificial intellig
 
 ### Working Papers
 - **Effective Reinforcement Learning Control using Conservative Soft Actor-Critic.**  
-**<u> Zhiwei Shang </u>**, Yunduan Cui\*, Wenjun Huang, Meixin Zhu✉️, Chenjia Bai, Di Chen, Xinyi Yuan.  
+**<u> Zhiwei Shang\* </u>**, Yunduan Cui\*, Wenjun Huang, Meixin Zhu✉️, Chenjia Bai, Di Chen, Xinyi Yuan.  
 ***<font color = "#224B8D"> Submitted to 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)</font>***
 
 ### Published / Accepted Papers
@@ -68,7 +68,7 @@ Renxing Li, **<u>Zhiwei Shang</u>**, Chunhua Zheng, Huiyun Li, Qing Liang, Yundu
 ***<font color = "#224B8D">5th International Conference on Pattern Recognition and Artificial Intelligence (PRAI 2022)</font>*** \| [[Paper](https://ieeexplore.ieee.org/abstract/document/9904283)]
 
 - **Shiftable Dynamic Policy Programming for Efficient and Robust Reinforcement Learning Control.**  
-**<u>Zhiwei Shang</u>**, Huiyun Li, Yunduan Cui✉️.  
+**<u>Zhiwei Shang</u>**, Huiyun Li, Yunduan Cui✉️.
 ***<font color = "#224B8D">2021 IEEE International Conference on Robotics and Biomimetics (ROBIO 2021)</font>*** \| [[Paper](https://ieeexplore.ieee.org/document/9739232)]
 
 <span class='anchor' id='awards'></span>
