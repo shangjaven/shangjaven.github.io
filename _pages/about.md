@@ -46,7 +46,7 @@ My research interests lie in the engineering applications of artificial intellig
 
 ### Working Papers
 - **Effective Reinforcement Learning Control using Conservative Soft Actor-Critic.**  
-**<u> Zhiwei Shang\* </u>**, Yunduan Cui\*, Wenjun Huang, Meixin Zhu✉️, Chenjia Bai, Di Chen, Xinyi Yuan.  
+**<u> Zhiwei Shang* </u>**, Yunduan Cui\*, Wenjun Huang, Meixin Zhu✉️, Chenjia Bai, Di Chen, Xinyi Yuan.  
 ***<font color = "#224B8D"> Submitted to 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)</font>***
 
 ### Published / Accepted Papers
