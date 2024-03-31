@@ -55,27 +55,23 @@ My research interests lie in the engineering applications of artificial intellig
 
 - **Learning Realistic and Reactive Traffic Agents.**  
 Meixin Zhu✉️, Di Chen, Xinyi Yuan, **<u>Zhiwei Shang</u>**, Chenxi Liu.  
-***<font color = "#224B8D">IEEE Intelligent Vehicles Symposium (IV 2024)</font>***
+***<font color = "#224B8D">35th IEEE Intelligent Vehicles Symposium (IV 2024)</font>***
 
-- ``IEEE TNNLS`` Relative Entropy Regularized Sample-Efficient Reinforcement Learning With Continuous Actions.  
-[[paper]](https://ieeexplore.ieee.org/document/10313993)
-<!-- [[code]](https://github.com/AndrewZhou924)   -->
-**Zhiwei Shang**, Renxing Li, Chunhua Zheng, Huiyun Li, Yunduan Cui✉️.
+- **Relative Entropy Regularized Sample-Efficient Reinforcement Learning With Continuous Actions.**  
+**<u>Zhiwei Shang</u>**, Renxing Li, Chunhua Zheng, Huiyun Li, Yunduan Cui✉️.  
+***<font color = "#224B8D">IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023</font>*** \| [[Paper](https://ieeexplore.ieee.org/document/10313993)]
 
-- ``Applied Intelligence`` Efficient distributional reinforcement learning with Kullback-Leibler divergence regularization.  
-[[paper]](https://link.springer.com/article/10.1007/s10489-023-04867-z)
-<!-- [[code]](https://github.com/AndrewZhou924)   -->
-Li Renxing, **Zhiwei Shang**, Chunhua Zheng, Huiyun Li, Qing Liang, Yunduan Cui✉️.
+- **Efficient distributional reinforcement learning with Kullback-Leibler divergence regularization.**  
+Li Renxing, **<u>Zhiwei Shang</u>**, Chunhua Zheng, Huiyun Li, Qing Liang, Yunduan Cui✉️.  
+***<font color = "#224B8D">Applied Intelligence, 2023</font>*** \| [[Paper](https://link.springer.com/article/10.1007/s10489-023-04867-z)]
 
-- ``PRAI 2022`` Dynamic Policy Programming with Descending Regularization for Efficient Reinforcement Learning Control.  
-[[paper]](https://ieeexplore.ieee.org/abstract/document/9904283)
-<!-- [[code]](https://github.com/AndrewZhou924)   -->
-Renxing Li, **Zhiwei Shang**, Chunhua Zheng, Huiyun Li, Qing Liang, Yunduan Cui✉️.
+- **Dynamic Policy Programming with Descending Regularization for Efficient Reinforcement Learning Control.**  
+Renxing Li, **<u>Zhiwei Shang</u>**, Chunhua Zheng, Huiyun Li, Qing Liang, Yunduan Cui✉️.  
+***<font color = "#224B8D">5th International Conference on Pattern Recognition and Artificial Intelligence (PRAI 2022)</font>*** \| [[Paper](https://ieeexplore.ieee.org/abstract/document/9904283)]
 
-- ``ROBIO 2021`` Shiftable Dynamic Policy Programming for Efficient and Robust Reinforcement Learning Control.  
-[[paper]](https://ieeexplore.ieee.org/document/9739232)
-<!-- [[code]](https://github.com/AndrewZhou924)   -->
-Zhiwei Shang, Huiyun Li, Yunduan Cui✉️.
+- **Shiftable Dynamic Policy Programming for Efficient and Robust Reinforcement Learning Control.**  
+**<u>Zhiwei Shang</u>**, Huiyun Li, Yunduan Cui✉️.
+***<font color = "#224B8D">2021 IEEE International Conference on Robotics and Biomimetics (ROBIO 2021)</font>*** \| [[Paper](https://ieeexplore.ieee.org/document/9739232)]
 
 <span class='anchor' id='awards'></span>
 
