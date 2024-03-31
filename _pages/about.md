@@ -55,7 +55,7 @@ My research interests lie in the engineering applications of artificial intellig
 
 - **Learning Realistic and Reactive Traffic Agents.**  
 Meixin Zhu✉️, Di Chen, Xinyi Yuan, **<u>Zhiwei Shang</u>**, Chenxi Liu. 
-***<font color = "#224B8D">IEEE Intelligent Vehicles Symposium (IV 2024)</font>***
+***<font color = "#224B8D">IEEE Intelligent Vehicles Symposium (IV 2024)</font>*** \|
 
 - ``IEEE TNNLS`` Relative Entropy Regularized Sample-Efficient Reinforcement Learning With Continuous Actions.  
 [[paper]](https://ieeexplore.ieee.org/document/10313993)
