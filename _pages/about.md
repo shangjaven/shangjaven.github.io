@@ -53,7 +53,7 @@ My research interests lie in the engineering applications of artificial intellig
 
 ### Published / Accepted Papers
 
-- <span class="badge badge-primary">``IV 2024``</span> &nbsp; Learning Realistic and Reactive Traffic Agents.  
+- <span class="badge badge-primary">``IV 2024``</span> &ensp; Learning Realistic and Reactive Traffic Agents.  
 <!--[[paper]](https://ieeexplore.ieee.org/document/10313993) -->
 <!-- [[code]](https://github.com/AndrewZhou924)   -->
 Meixin Zhu✉️, Di Chen, Xinyi Yuan, **Zhiwei Shang**, Chenxi Liu.
