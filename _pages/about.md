@@ -37,7 +37,7 @@ My research interests lie in the engineering applications of artificial intellig
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2024.03*: &nbsp; 🎉🎉 One paper is accepted by the IEEE Intelligent Vehicles Symposium (*IV 2024*).
+- *2024.03*: &nbsp; 🎉🎉 One paper is accepted by the 35th IEEE Intelligent Vehicles Symposium (*IV 2024*).
 - *2024.03*: &nbsp; A manuscript submitted to *IROS 2024* 
 
 <span class='anchor' id='pub'></span>
