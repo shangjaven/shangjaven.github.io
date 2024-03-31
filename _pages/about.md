@@ -53,7 +53,8 @@ My research interests lie in the engineering applications of artificial intellig
 
 ### Published / Accepted Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166) \\
 **Yi Ren**, Jinglin Liu, Zhou Zhao
