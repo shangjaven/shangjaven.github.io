@@ -37,8 +37,8 @@ My research interests lie in the engineering applications of artificial intellig
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2024.03*: &nbsp; 🎉🎉 One paper is accepted by the IEEE Intelligent Vehicles Symposium (*IV 2024*).
 - *2024.03*: &nbsp; A manuscript submitted to *IROS 2024* 
-- *2023.12*: &nbsp; A manuscript submitted to *IV 2024*
 
 <span class='anchor' id='pub'></span>
 
@@ -46,17 +46,17 @@ My research interests lie in the engineering applications of artificial intellig
 \* Co-first author, ✉️ Corresponding author.
 
 ### Working Papers
-- ``IROS 2024`` Effective Reinforcement Learning Control using Conservative Soft Actor-Critic.  
+- `IROS 2024` Effective Reinforcement Learning Control using Conservative Soft Actor-Critic.  
 <!--[[paper]](https://ieeexplore.ieee.org/document/10313993) -->
 <!-- [[code]](https://github.com/AndrewZhou924)   -->
 **Zhiwei Shang\***, Yunduan Cui\*, Wenjun Huang, Meixin Zhu✉️, Chenjia Bai, Di Chen, Xinyi Yuan.
+
+### Published / Accepted Papers
 
 - ``IV 2024`` Learning Realistic and Reactive Traffic Agents.  
 <!--[[paper]](https://ieeexplore.ieee.org/document/10313993) -->
 <!-- [[code]](https://github.com/AndrewZhou924)   -->
 Meixin Zhu✉️, Di Chen, Xinyi Yuan, **Zhiwei Shang**, Chenxi Liu.
-
-### Published / Accepted Papers
 
 - ``IEEE TNNLS`` Relative Entropy Regularized Sample-Efficient Reinforcement Learning With Continuous Actions.  
 [[paper]](https://ieeexplore.ieee.org/document/10313993)
@@ -93,4 +93,5 @@ Zhiwei Shang, Huiyun Li, Yunduan Cui✉️.
 
 # 💻 Services
 <!-- - Conference Reviewer for ICML, NeurIPS, ICLR, AISTATS, ACML, AAAI, IJCAI, CIKM, SIGKDD. -->
-- Journal Reviewer for TIV.
+### Journal Reviewer 
+- IEEE Transactions on Intelligent Vehicles (T-IV)
