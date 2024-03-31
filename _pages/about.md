@@ -53,10 +53,9 @@ My research interests lie in the engineering applications of artificial intellig
 
 ### Published / Accepted Papers
 
-- <div class="badge">``IV 2024``</div> Learning Realistic and Reactive Traffic Agents.  
-<!--[[paper]](https://ieeexplore.ieee.org/document/10313993) -->
-<!-- [[code]](https://github.com/AndrewZhou924)   -->
-Meixin Zhu✉️, Di Chen, Xinyi Yuan, **Zhiwei Shang**, Chenxi Liu.
+- **Learning Realistic and Reactive Traffic Agents.**  
+Meixin Zhu✉️, Di Chen, Xinyi Yuan, **<u>Zhiwei Shang</u>**, Chenxi Liu. 
+***<font color = "#224B8D">IEEE Intelligent Vehicles Symposium (IV 2024)</font>***
 
 - ``IEEE TNNLS`` Relative Entropy Regularized Sample-Efficient Reinforcement Learning With Continuous Actions.  
 [[paper]](https://ieeexplore.ieee.org/document/10313993)
