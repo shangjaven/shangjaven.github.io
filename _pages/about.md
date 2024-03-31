@@ -68,7 +68,7 @@ Renxing Li, **<u>Zhiwei Shang</u>**, Chunhua Zheng, Huiyun Li, Qing Liang, Yundu
 ***<font color = "#224B8D">5th International Conference on Pattern Recognition and Artificial Intelligence (PRAI 2022)</font>*** \| [[Paper](https://ieeexplore.ieee.org/abstract/document/9904283)]
 
 - **Shiftable Dynamic Policy Programming for Efficient and Robust Reinforcement Learning Control.**  
-**<u>Zhiwei Shang</u>**, Huiyun Li, Yunduan Cui✉️.
+**<u>Zhiwei Shang</u>**, Huiyun Li, Yunduan Cui✉️.  
 ***<font color = "#224B8D">2021 IEEE International Conference on Robotics and Biomimetics (ROBIO 2021)</font>*** \| [[Paper](https://ieeexplore.ieee.org/document/9739232)]
 
 <span class='anchor' id='awards'></span>
