@@ -46,13 +46,11 @@ My research interests lie in the engineering applications of artificial intellig
 \* Co-first author, ✉️ Corresponding author.
 
 ### Working Papers
-- `IROS 2024` Effective Reinforcement Learning Control using Conservative Soft Actor-Critic.  
-<!--[[paper]](https://ieeexplore.ieee.org/document/10313993) -->
-<!-- [[code]](https://github.com/AndrewZhou924)   -->
-**Zhiwei Shang\***, Yunduan Cui\*, Wenjun Huang, Meixin Zhu✉️, Chenjia Bai, Di Chen, Xinyi Yuan.
+- **Effective Reinforcement Learning Control using Conservative Soft Actor-Critic.**  
+**<u>Zhiwei Shang\*</u>**, Yunduan Cui\*, Wenjun Huang, Meixin Zhu✉️, Chenjia Bai, Di Chen, Xinyi Yuan.  
+***<font color = "#224B8D">**Submitted to** 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)</font>***
 
 ### Published / Accepted Papers
-
 - **Learning Realistic and Reactive Traffic Agents.**  
 Meixin Zhu✉️, Di Chen, Xinyi Yuan, **<u>Zhiwei Shang</u>**, Chenxi Liu.  
 ***<font color = "#224B8D">35th IEEE Intelligent Vehicles Symposium (IV 2024)</font>***
