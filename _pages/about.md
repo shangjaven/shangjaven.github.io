@@ -47,7 +47,6 @@ My research interests lie in the engineering applications of artificial intellig
 ### Working Papers
 - **Effective Reinforcement Learning Control using Conservative Soft Actor-Critic.**  
 **<u> Zhiwei Shang* </u>**, Yunduan Cui\*, Wenjun Huang, Meixin Zhu✉️, Chenjia Bai, Di Chen, Xinyi Yuan.  
-***<font color = "#224B8D"> Submitted to 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)</font>***
 
 ### Published / Accepted Papers
 - **Learning Realistic and Reactive Traffic Agents.**  
@@ -56,11 +55,11 @@ Meixin Zhu✉️, Di Chen, Xinyi Yuan, **<u>Zhiwei Shang</u>**, Chenxi Liu.
 
 - **Relative Entropy Regularized Sample-Efficient Reinforcement Learning With Continuous Actions.**  
 **<u>Zhiwei Shang</u>**, Renxing Li, Chunhua Zheng, Huiyun Li, Yunduan Cui✉️.  
-***<font color = "#224B8D">IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023</font>*** \| [[Paper](https://ieeexplore.ieee.org/document/10313993)]
+***<font color = "#224B8D">IEEE Transactions on Neural Networks and Learning Systems (IF=10.2, JCR Q1), 2023</font>*** \| [[Paper](https://ieeexplore.ieee.org/document/10313993)]
 
 - **Efficient distributional reinforcement learning with Kullback-Leibler divergence regularization.**  
 Li Renxing, **<u>Zhiwei Shang</u>**, Chunhua Zheng, Huiyun Li, Qing Liang, Yunduan Cui✉️.  
-***<font color = "#224B8D">Applied Intelligence, 2023</font>*** \| [[Paper](https://link.springer.com/article/10.1007/s10489-023-04867-z)]
+***<font color = "#224B8D">Applied Intelligence (IF=3.4, JCR Q2), 2023</font>*** \| [[Paper](https://link.springer.com/article/10.1007/s10489-023-04867-z)]
 
 - **Dynamic Policy Programming with Descending Regularization for Efficient Reinforcement Learning Control.**  
 Renxing Li, **<u>Zhiwei Shang</u>**, Chunhua Zheng, Huiyun Li, Qing Liang, Yunduan Cui✉️.  
