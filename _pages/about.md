@@ -27,8 +27,13 @@ My research interests lie in the study of Artificial Intelligence algorithms and
 <span class='anchor' id='edu'></span>
 
 # 📖 Educations
-- *2020.09 - 2023.06*, University of Chinese Academy of Sciences (UCAS), Master of Electronic and Information Engineering in Computer Technology.
-- *2016.09 – 2020.06*, Sichuan University (SCU), Bachelor of Engineering in Hydrology and Water Resources Engineering.
+- *Sep. 2020 - Jun. 2023*<br />
+Master of Electronic and Information Engineering, Computer Technology<br />
+**University of Chinese Academy of Sciences (UCAS)** <br />
+
+- *Sep. 2016 - Jun. 2020*<br />
+Bachelor of Engineering, Hydrology and Water Resources Engineering<br />
+**Sichuan University (SCU)** <br />
 
 <span class='anchor' id='exp'></span>
 
