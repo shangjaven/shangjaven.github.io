@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiwei Shang"
-description              : "Focusing on Reinforcement Learning and Robot Learning."
+description              : # "Focusing on Reinforcement Learning and Robot Learning."
 repository               : "shangjaven/shangjaven.github.io"
 google_scholar_stats_use_cdn : true
 

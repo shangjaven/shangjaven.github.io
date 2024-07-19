@@ -21,7 +21,8 @@ redirect_from:
 
 Before this, I received Master of Electronic and Information Engineering in Computer Technology from [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) in 2023, supervised by [Prof. Yunduan Cui](https://cuiyunduan.vercel.app/). I received Bachelor of Engineering in Hydrology and Water Resources Engineering from [Sichuan University](https://en.scu.edu.cn/) in 2020.
 
-My research interests lie in the engineering applications of artificial intelligence, especially reinforcement learning, and in particular in the development of robust and efficient control algorithms for autonomous vehicles and robots operating in complex environments.
+My research interests lie in the study of Artificial Intelligence algorithms and their engineering applications. I believe that the development of Artificial Intelligence can help us build a better, safer and more equal society！You’re more than welcome to write me an email to connect (or make friends)! Let’s explore the exciting world together! 🌌
+
 
 <span class='anchor' id='edu'></span>
 
@@ -31,8 +32,14 @@ My research interests lie in the engineering applications of artificial intellig
 
 <span class='anchor' id='exp'></span>
 
-# 💼 Experiences
-- *2023.08 - present*, Hong Kong University of Science and Technology (HKUST), Guangzhou Campus, Research Assistant.
+# 💼 Research Experiences
+- **Drive AI Laboratory (Research Assistant), HKUST (GZ)** <br />
+Aug. 2023 - present<br />
+Supervised by [Prof. Meixin Zhu](https://meixinzhu.github.io/)<br />
+
+- **Shang Hai AI Laboratory (Remote Research)** <br />
+Feb. 2024 - present<br />
+Supervised by [Dr. Chenjia Bai](https://baichenjia.github.io/)<br />
 
 <span class='anchor' id='news'></span>
 
