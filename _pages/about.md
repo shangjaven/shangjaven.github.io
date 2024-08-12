@@ -58,8 +58,8 @@ Supervised by [Dr. Chenjia Bai](https://baichenjia.github.io/)<br />
 
 ### Working Papers
 - **Effective Reinforcement Learning Control using Conservative Soft Actor-Critic.**  
-**<u> Zhiwei Shang* </u>**, Yunduan Cui\*, Xinyi Yuan, Wenjun Huang, Meixin Zhu✉️, Chenjia Bai, Di Chen.
-***<font color = "#224B8D">Submitted to IEEE Transactions on Automation Science and Engineering</font>***
+**<u> Zhiwei Shang* </u>**, Yunduan Cui\*, Xinyi Yuan, Wenjun Huang, Meixin Zhu✉️, Chenjia Bai, Di Chen.\
+  ***<font color = "#224B8D">Submitted to IEEE Transactions on Automation Science and Engineering</font>***
 
 ### Published / Accepted Papers
 - **Learning Realistic and Reactive Traffic Agents.**  
