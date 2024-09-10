@@ -58,8 +58,12 @@ Supervised by [Dr. Chenjia Bai](https://baichenjia.github.io/)<br />
 
 ### Working Papers
 - **Effective Reinforcement Learning Control using Conservative Soft Actor-Critic.**  
-**<u> Zhiwei Shang* </u>**, Yunduan Cui\*, Xinyi Yuan, Wenjun Huang, Meixin Zhu✉️, Chenjia Bai, Di Chen.\
+**<u> Zhiwei Shang* </u>**, Xinyi Yuan\*, Wenjun Huang, Yunduan Cui, Pengqin Wang, Di Chen, Meixin Zhu✉️, Shaojie Shen.\
   ***<font color = "#224B8D">Submitted to IEEE Transactions on Automation Science and Engineering</font>***
+
+- **Preference Aligned Diffusion Planner for Quadrupedal Locomotion Control.**  
+Xinyi Yuan\*, **<u> Zhiwei Shang* </u>**, Zifan Wang, Chenkai Wang, Zhao Shan, Zhenchao Qi, Meixin Zhu✉️, Chenjia Bai✉️.\
+  ***<font color = "#224B8D">Submitted to 2025 IEEE International Conference on Robotics & Automation</font>***
 
 ### Published / Accepted Papers
 - **Learning Realistic and Reactive Traffic Agents.**  
