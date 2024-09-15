@@ -62,7 +62,7 @@ Supervised by [Dr. Chenjia Bai](https://baichenjia.github.io/)<br />
   ***<font color = "#224B8D">Submitted to IEEE Transactions on Automation Science and Engineering</font>***
 
 - **Preference Aligned Diffusion Planner for Quadrupedal Locomotion Control.**  
-Xinyi Yuan\*, **<u> Zhiwei Shang* </u>**, Zifan Wang, Chenkai Wang, Zhao Shan, Zhenchao Qi, Meixin Zhu✉️, Chenjia Bai✉️.\
+Xinyi Yuan\*, **<u> Zhiwei Shang* </u>**, Zifan Wang, Chenkai Wang, Zhao Shan, Zhenchao Qi, Meixin Zhu✉️, Chenjia Bai✉️, Xuelong Li.\
   ***<font color = "#224B8D">Submitted to 2025 IEEE International Conference on Robotics & Automation</font>***
 
 ### Published / Accepted Papers
