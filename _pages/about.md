@@ -38,13 +38,15 @@ Bachelor of Engineering, Hydrology and Water Resources Engineering<br />
 <span class='anchor' id='exp'></span>
 
 # 💼 Research Experiences
-- **Drive AI Laboratory (Research Assistant), HKUST (GZ)** <br />
+- **Drive AI Laboratory (Research Assistant), HKUST** <br />
 Aug. 2023 - present<br />
 Supervised by [Prof. Meixin Zhu](https://meixinzhu.github.io/)<br />
+Research on Reinforcement Learning<br />
 
-- **Shang Hai AI Laboratory (Remote Research)** <br />
-Feb. 2024 - present<br />
+- **Shanghai Artificial Intelligence Laboratory (Remote Research Assistant)** <br />
+Feb. 2024 - Sep. 2024<br />
 Supervised by [Dr. Chenjia Bai](https://baichenjia.github.io/)<br />
+Research on Embodied AI<br />
 
 <span class='anchor' id='news'></span>
 
