@@ -65,7 +65,7 @@ Research on Embodied AI<br />
 
 - **Preference Aligned Diffusion Planner for Quadrupedal Locomotion Control.**  
 Xinyi Yuan\*, **<u> Zhiwei Shang* </u>**, Zifan Wang, Chenkai Wang, Zhao Shan, Zhenchao Qi, Meixin Zhu✉️, Chenjia Bai✉️, Xuelong Li.\
-  ***<font color = "#224B8D">Submitted to 2025 IEEE International Conference on Robotics & Automation</font>***
+  ***<font color = "#224B8D">Submitted to 2025 IEEE International Conference on Robotics & Automation</font>*** \| [[Website](https://shangjaven.github.io/preference-aligned-diffusion-legged/)]
 
 ### Published / Accepted Papers
 - **Learning Realistic and Reactive Traffic Agents.**  
