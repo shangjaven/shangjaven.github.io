@@ -38,7 +38,7 @@ Bachelor of Engineering, Hydrology and Water Resources Engineering<br />
 <span class='anchor' id='exp'></span>
 
 # 💼 Research Experiences
-- **Drive AI Laboratory (Research Assistant), HKUST** <br />
+- **The Hong Kong University of Science and Technology** <br />
 Aug. 2023 - present<br />
 Supervised by [Prof. Meixin Zhu](https://meixinzhu.github.io/)<br />
 Research on Reinforcement Learning<br />
@@ -46,11 +46,17 @@ Research on Reinforcement Learning<br />
 - **Shanghai Artificial Intelligence Laboratory (Remote Research Assistant)** <br />
 Feb. 2024 - Sep. 2024<br />
 Supervised by [Dr. Chenjia Bai](https://baichenjia.github.io/)<br />
-Research on Embodied AI<br />
+Research on Intelligent Robots<br />
+
+- **Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences** <br />
+Sep. 2020 - Jun. 2023<br />
+Supervised by [Dr. Yunduan Cui](https://cuiyunduan.vercel.app/)<br />
+Research on Reinforcement Learning and Intelligent Control<br />
 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2024.10*: &nbsp; 🎉🎉 Please view our new work on diffusion-based locomotion policy on [project website](https://shangjaven.github.io/preference-aligned-diffusion-legged/)!
 - *2024.03*: &nbsp; 🎉🎉 One paper is accepted by the 35th IEEE Intelligent Vehicles Symposium (IV 2024).
 
 <span class='anchor' id='pub'></span>
@@ -59,6 +65,10 @@ Research on Embodied AI<br />
 \* Co-first author, ✉️ Corresponding author.
 
 ### Working Papers
+- **Dynamic High-Order Control Barrier Functions with Diffuser for Safety-Critical Trajectory Planning at Signal-Free Intersections.**  
+Di Chen, Ruiguo Zhong, Kehua Chen, **<u>Zhiwei Shang</u>**, Meixin Zhu✉️.\
+  ***<font color = "#224B8D">Submitted to IEEE Transactions on Intelligent Transportation Systems</font>***
+
 - **Effective Reinforcement Learning Control using Conservative Soft Actor-Critic.**  
 **<u> Zhiwei Shang* </u>**, Xinyi Yuan\*, Wenjun Huang, Yunduan Cui, Pengqin Wang, Di Chen, Meixin Zhu✉️, Shaojie Shen.\
   ***<font color = "#224B8D">Submitted to IEEE Transactions on Automation Science and Engineering</font>***
@@ -91,7 +101,7 @@ Renxing Li, **<u>Zhiwei Shang</u>**, Chunhua Zheng, Huiyun Li, Qing Liang, Yundu
 <span class='anchor' id='awards'></span>
 
 # 🎖 Awards
-- *2022.12*, Outstanding Graduate Student Award of Dean's Innovation Award of Shenzhen Institute of Advanced Integration Technology, Chinese Academy of Sciences and The Chinese University of Hong Kong (There are only **17 people** in the whole institute).
+- *2022.12*, Outstanding Graduate Student Award of Dean's Innovation Award of Shenzhen Institute of Advanced Integration Technology, Chinese Academy of Sciences and The Chinese University of Hong Kong (**17 awardees** among whole institute).
 - *2019.05* Outstanding Project of **Provincial** Student Innovation and Entrepreneurship Training Program (**Top 10%**)
 
 <span class='anchor' id='talks'></span>
@@ -104,6 +114,6 @@ Renxing Li, **<u>Zhiwei Shang</u>**, Chunhua Zheng, Huiyun Li, Qing Liang, Yundu
 # 💻 Services
 <!-- - Conference Reviewer for ICML, NeurIPS, ICLR, AISTATS, ACML, AAAI, IJCAI, CIKM, SIGKDD. -->
 ### Journal Reviewer 
-- IEEE Transactions on Intelligent Vehicles (T-IV)
+- IEEE Transactions on Intelligent Vehicles (T-IV), Applied Intelligence
   
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5dl7zaq932f&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
