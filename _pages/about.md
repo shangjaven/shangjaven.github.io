@@ -39,17 +39,17 @@ Bachelor of Engineering, Hydrology and Water Resources Engineering<br />
 
 # 💼 Research Experiences
 - **The Hong Kong University of Science and Technology** <br />
-Aug. 2023 - present<br />
+Aug. 2023 - present, Research Assistant<br />
 Supervised by [Prof. Meixin Zhu](https://meixinzhu.github.io/)<br />
 Research on Reinforcement Learning<br />
 
-- **Shanghai Artificial Intelligence Laboratory (Remote Research Assistant)** <br />
-Feb. 2024 - Sep. 2024<br />
+- **Shanghai Artificial Intelligence Laboratory** <br />
+Feb. 2024 - Sep. 2024, Research Assistant<br />
 Supervised by [Dr. Chenjia Bai](https://baichenjia.github.io/)<br />
 Research on Intelligent Robots<br />
 
 - **Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences** <br />
-Sep. 2020 - Jun. 2023<br />
+Sep. 2020 - Jun. 2023, Research Assistant<br />
 Supervised by [Dr. Yunduan Cui](https://cuiyunduan.vercel.app/)<br />
 Research on Reinforcement Learning and Intelligent Control<br />
 
