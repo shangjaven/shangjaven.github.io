@@ -74,8 +74,8 @@ Di Chen, Ruiguo Zhong, Kehua Chen, **<u>Zhiwei Shang</u>**, Meixin Zhu✉️.\
   ***<font color = "#224B8D">Submitted to IEEE Transactions on Automation Science and Engineering</font>***
 
 - **Preference Aligned Diffusion Planner for Quadrupedal Locomotion Control.**  
-Xinyi Yuan\*, **<u> Zhiwei Shang* </u>**, Zifan Wang, Chenkai Wang, Zhao Shan, Zhenchao Qi, Meixin Zhu✉️, Chenjia Bai✉️, Xuelong Li.\
-  ***<font color = "#224B8D">Submitted to 2025 IEEE International Conference on Robotics & Automation</font>*** \| [[Website](https://shangjaven.github.io/preference-aligned-diffusion-legged/)]
+Xinyi Yuan\*, **<u> Zhiwei Shang* </u>**, Zifan Wang, Chenkai Wang, Zhao Shan, Meixin Zhu✉️, Chenjia Bai✉️, Weiwei Wan, Kensuke Harada, Xuelong Li.\
+  ***<font color = "#224B8D">Submitted to 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems</font>*** \| [[Website](https://shangjaven.github.io/preference-aligned-diffusion-legged/)]
 
 ### Published / Accepted Papers
 - **Learning Realistic and Reactive Traffic Agents.**  
