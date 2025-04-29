@@ -19,7 +19,7 @@ redirect_from:
 
 👋Hi there, I am Zhiwei Shang (尚致违), currently a research assistant at [Intelligent Transportation (INTR) Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/intelligent-transportation/) in the [System Hub](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/), [Hong Kong University of Science and Technology (Guangzhou campus)](https://www.hkust-gz.edu.cn/), supervised by [Prof. Meixin Zhu](https://scholar.google.com.hk/citations?user=5Ysgg7AAAAAJ).
 
-Before this, I received Master of Electronic and Information Engineering in Computer Technology from [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) in 2023, supervised by [Prof. Yunduan Cui](https://cuiyunduan.vercel.app/). I received Bachelor of Engineering in Hydrology and Water Resources Engineering from [Sichuan University](https://en.scu.edu.cn/) in 2020.
+Before this, I received Master of Electronic and Information Engineering in Computer Technology from [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) in 2023, supervised by [Prof. Yunduan Cui](https://cuiyunduan.vercel.app/). I received Bachelor of Engineering in Hydrology and Water Resources Engineering from [Sichuan University](https://en.scu.edu.cn/) in 2020. In addition, from February 2024 to September 2024, I worked on quadrupedal robots as a remote research assistant supervised by [Dr. Chenjia Bai](https://baichenjia.github.io/) at the [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/).
 
 My research interests lie in the study of Artificial Intelligence algorithms and their engineering applications. I believe that the development of Artificial Intelligence can help us build a better, safer and more equal society！You’re more than welcome to write me an email to connect (or make friends)! Let’s explore the exciting world together! 🌌
 
@@ -56,8 +56,9 @@ Research on Reinforcement Learning and Intelligent Control<br />
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2025.05*: &nbsp; 🎉🎉 Our paper is accepted by the IEEE Transactions on Intelligent Transportation Systems.
 - *2024.10*: &nbsp; 🎉🎉 Please view our new work on diffusion-based locomotion policy on [project website](https://shangjaven.github.io/preference-aligned-diffusion-legged/)!
-- *2024.03*: &nbsp; 🎉🎉 One paper is accepted by the 35th IEEE Intelligent Vehicles Symposium (IV 2024).
+- *2024.03*: &nbsp; 🎉🎉 Our paper is accepted by the 35th IEEE Intelligent Vehicles Symposium (IV 2024).
 
 <span class='anchor' id='pub'></span>
 
@@ -65,10 +66,6 @@ Research on Reinforcement Learning and Intelligent Control<br />
 \* Co-first author, ✉️ Corresponding author.
 
 ### Working Papers
-- **Dynamic High-Order Control Barrier Functions with Diffuser for Safety-Critical Trajectory Planning at Signal-Free Intersections.**  
-Di Chen, Ruiguo Zhong, Kehua Chen, **<u>Zhiwei Shang</u>**, Meixin Zhu✉️.\
-  ***<font color = "#224B8D">Submitted to IEEE Transactions on Intelligent Transportation Systems</font>***
-
 - **Effective Reinforcement Learning Control using Conservative Soft Actor-Critic.**  
 **<u> Zhiwei Shang* </u>**, Xinyi Yuan\*, Wenjun Huang, Yunduan Cui, Pengqin Wang, Di Chen, Meixin Zhu✉️, Shaojie Shen.\
   ***<font color = "#224B8D">Submitted to IEEE Transactions on Automation Science and Engineering</font>***
@@ -78,6 +75,10 @@ Xinyi Yuan\*, **<u> Zhiwei Shang* </u>**, Zifan Wang, Chenkai Wang, Zhao Shan, M
   ***<font color = "#224B8D">Submitted to 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems</font>*** \| [[Website](https://shangjaven.github.io/preference-aligned-diffusion-legged/)]
 
 ### Published / Accepted Papers
+- **Dynamic High-Order Control Barrier Functions with Diffuser for Safety-Critical Trajectory Planning at Signal-Free Intersections.**  
+Di Chen, Ruiguo Zhong, Kehua Chen, **<u>Zhiwei Shang</u>**, Meixin Zhu✉️, Edward Chung.\
+  ***<font color = "#224B8D">IEEE Transactions on Intelligent Transportation Systems (IF=7.9, JCR Q1), 2025</font>***
+
 - **Learning Realistic and Reactive Traffic Agents.**  
 Meixin Zhu✉️, Di Chen, Xinyi Yuan, **<u>Zhiwei Shang</u>**, Chenxi Liu.  
 ***<font color = "#224B8D">35th IEEE Intelligent Vehicles Symposium (IV 2024)</font>***
@@ -113,7 +114,11 @@ Renxing Li, **<u>Zhiwei Shang</u>**, Chunhua Zheng, Huiyun Li, Qing Liang, Yundu
 
 # 💻 Services
 <!-- - Conference Reviewer for ICML, NeurIPS, ICLR, AISTATS, ACML, AAAI, IJCAI, CIKM, SIGKDD. -->
+### Conference Reviewer 
+- IROS 2025
+  
 ### Journal Reviewer 
-- IEEE Transactions on Intelligent Vehicles, Applied Intelligence
+- IEEE Transactions on Intelligent Vehicles
+- Applied Intelligence
   
 <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5dl7zaq932f&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> -->
