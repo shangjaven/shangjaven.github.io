@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiwei Shang"
-description              : "Focusing on Artificial Intelligence."
+description              : "Focusing on Large Language Models, Data-centric AI and Reinforcement Learning."
 repository               : "shangjaven/shangjaven.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhiwei Shang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Research Assistant at Hong Kong University of Science and Technology (Guangzhou campus)"
-  location         : "Guangzhou, China"
+  bio              : "Ph.D. student at The Chinese University of Hong Kong, Shenzhen"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "zhiweishang@hkust-gz.edu.cn"
+  email            : "javen.shang@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

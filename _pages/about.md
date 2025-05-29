@@ -17,29 +17,33 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋Hi there, I am Zhiwei Shang (尚致违), currently a research assistant at [Intelligent Transportation (INTR) Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/intelligent-transportation/) in the [System Hub](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/), [Hong Kong University of Science and Technology (Guangzhou campus)](https://www.hkust-gz.edu.cn/), supervised by [Prof. Meixin Zhu](https://scholar.google.com.hk/citations?user=5Ysgg7AAAAAJ).
+👋Hi there, I am Zhiwei Shang (尚致违), currently a 1st Ph.D. student in the [School of Data Science](https://sds.cuhk.edu.cn/en) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), supervised by [Prof. Zhongxiang Dai](https://daizhongxiang.github.io/).
 
-Before this, I received Master of Electronic and Information Engineering in Computer Technology from [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) in 2023, supervised by [Prof. Yunduan Cui](https://cuiyunduan.vercel.app/). I received Bachelor of Engineering in Hydrology and Water Resources Engineering from [Sichuan University](https://en.scu.edu.cn/) in 2020. In addition, from February 2024 to September 2024, I worked on quadrupedal robots as a remote research assistant supervised by [Dr. Chenjia Bai](https://baichenjia.github.io/) at the [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/).
+Before this, I was a research assistant at the [Intelligent Transportation (INTR) Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/intelligent-transportation/) in the [System Hub](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/), [Hong Kong University of Science and Technology (Guangzhou campus)](https://www.hkust-gz.edu.cn/), supervised by [Prof. Meixin Zhu](https://scholar.google.com.hk/citations?user=5Ysgg7AAAAAJ). I received my Master of Electronic and Information Engineering in Computer Technology from [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) in 2023, supervised by [Prof. Yunduan Cui](https://cuiyunduan.vercel.app/). I got my Bachelor of Engineering in Hydrology and Water Resources Engineering from [Sichuan University](https://en.scu.edu.cn/) in 2020. In addition, from February 2024 to September 2024, I worked remotely as a research assistant with [Dr. Chenjia Bai](https://baichenjia.github.io/) at the [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/).
 
-My research interests lie in the study of Artificial Intelligence algorithms and their engineering applications. I believe that the development of Artificial Intelligence can help us build a better, safer and more equal society！You’re more than welcome to write me an email to connect (or make friends)! Let’s explore the exciting world together! 🌌
+My current research interests mainly lie in Large Language Models (LLMs), Data-centric AI and Reinforcement Learning (RL). I believe that the development of Artificial Intelligence can help us build a better, safer and more equal society！You’re more than welcome to write me an email to connect (or make friends)! Let’s explore the exciting world together! 🌌
 
 
 <span class='anchor' id='edu'></span>
 
 # 📖 Educations
+- *Sep. 2025 - present*<br />
+Ph.D. student in Computer Science<br />
+**The Chinese University of Hong Kong，Shenzhen (CUHK-Shenzhen)** <br />
+
 - *Sep. 2020 - Jun. 2023*<br />
-Master of Electronic and Information Engineering, Computer Technology<br />
+M.E. in Computer Technology<br />
 **University of Chinese Academy of Sciences (UCAS)** <br />
 
 - *Sep. 2016 - Jun. 2020*<br />
-Bachelor of Engineering, Hydrology and Water Resources Engineering<br />
+B.E. in Hydrology and Water Resources Engineering<br />
 **Sichuan University (SCU)** <br />
 
 <span class='anchor' id='exp'></span>
 
 # 💼 Research Experiences
 - **The Hong Kong University of Science and Technology** <br />
-Aug. 2023 - present, Research Assistant<br />
+Aug. 2023 - Jun. 2025, Research Assistant<br />
 Supervised by [Prof. Meixin Zhu](https://meixinzhu.github.io/)<br />
 Research on Reinforcement Learning<br />
 
@@ -56,9 +60,10 @@ Research on Reinforcement Learning and Intelligent Control<br />
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2025.05*: &nbsp; 🎉🎉 Our paper is accepted by the IEEE Transactions on Intelligent Transportation Systems.
-- *2024.10*: &nbsp; 🎉🎉 Please view our new work on diffusion-based locomotion policy on [project website](https://shangjaven.github.io/preference-aligned-diffusion-legged/)!
-- *2024.03*: &nbsp; 🎉🎉 Our paper is accepted by the 35th IEEE Intelligent Vehicles Symposium (IV 2024).
+- *2025.05*: &nbsp; 👨‍🎓 I was admitted to the Ph.D. program at the School of Data Science, The Chinese University of Hong Kong, Shenzhen.
+- *2025.05*: &nbsp; 🎉 Our paper is accepted by the IEEE Transactions on Intelligent Transportation Systems (T-ITS).
+- *2024.10*: &nbsp; 📌 Please view our new work on diffusion-based locomotion policy on [project website](https://shangjaven.github.io/preference-aligned-diffusion-legged/)!
+- *2024.03*: &nbsp; 🎉 Our paper is accepted by the 35th IEEE Intelligent Vehicles Symposium (IV 2024).
 
 <span class='anchor' id='pub'></span>
 
