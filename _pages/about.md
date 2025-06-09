@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋Hi there, I am Zhiwei Shang (尚致违), currently a 1st Ph.D. student in the [School of Data Science](https://sds.cuhk.edu.cn/en) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), supervised by [Prof. Zhongxiang Dai](https://daizhongxiang.github.io/).
+👋Hi there, I am Zhiwei Shang (尚致违), currently a first-year Computer Science Ph.D. student in the [School of Data Science](https://sds.cuhk.edu.cn/en) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), supervised by [Prof. Zhongxiang Dai](https://daizhongxiang.github.io/).
 
 Before this, I was a research assistant at the [Intelligent Transportation (INTR) Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/intelligent-transportation/) in the [System Hub](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/), [Hong Kong University of Science and Technology (Guangzhou campus)](https://www.hkust-gz.edu.cn/), supervised by [Prof. Meixin Zhu](https://scholar.google.com.hk/citations?user=5Ysgg7AAAAAJ). I received my Master of Electronic and Information Engineering in Computer Technology from [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) in 2023, supervised by [Prof. Yunduan Cui](https://cuiyunduan.vercel.app/). I got my Bachelor of Engineering in Hydrology and Water Resources Engineering from [Sichuan University](https://en.scu.edu.cn/) in 2020. In addition, from February 2024 to September 2024, I worked remotely as a research assistant with [Dr. Chenjia Bai](https://baichenjia.github.io/) at the [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/).
 
