@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋Hi there, I am Zhiwei Shang (尚致违), currently a first-year Computer Science Ph.D. student in the [School of Data Science](https://sds.cuhk.edu.cn/en) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), supervised by [Prof. Zhongxiang Dai](https://daizhongxiang.github.io/).
+👋Hi there, I am Zhiwei Shang (尚致违), currently a **first-year** Computer Science Ph.D. student in the [School of Data Science](https://sds.cuhk.edu.cn/en) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), supervised by [Prof. Zhongxiang Dai](https://daizhongxiang.github.io/).
 
 Before this, I was a research assistant at the [Intelligent Transportation (INTR) Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/intelligent-transportation/) in the [System Hub](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/), [Hong Kong University of Science and Technology (Guangzhou campus)](https://www.hkust-gz.edu.cn/), supervised by [Prof. Meixin Zhu](https://scholar.google.com.hk/citations?user=5Ysgg7AAAAAJ). I received my Master of Electronic and Information Engineering in Computer Technology from [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) in 2023, supervised by [Prof. Yunduan Cui](https://cuiyunduan.vercel.app/). I got my Bachelor of Engineering in Hydrology and Water Resources Engineering from [Sichuan University](https://en.scu.edu.cn/) in 2020. In addition, from February 2024 to September 2024, I worked remotely as a research assistant with [Dr. Chenjia Bai](https://baichenjia.github.io/) at the [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/).
 
@@ -51,6 +51,7 @@ B.E. in Hydrology and Water Resources Engineering<br />
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2025.06*: &nbsp; 🎉 One paper is accepted by 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025).
 - *2025.05*: &nbsp; 👨‍🎓 I was admitted to the Ph.D. program at the School of Data Science, The Chinese University of Hong Kong, Shenzhen.
 - *2025.05*: &nbsp; 🎉 Our paper is accepted by the IEEE Transactions on Intelligent Transportation Systems (T-ITS).
 - *2024.10*: &nbsp; 📌 Please view our new work on diffusion-based locomotion policy on [project website](https://shangjaven.github.io/preference-aligned-diffusion-legged/)!
@@ -66,11 +67,11 @@ B.E. in Hydrology and Water Resources Engineering<br />
 **<u> Zhiwei Shang* </u>**, Xinyi Yuan\*, Wenjun Huang, Yunduan Cui, Pengqin Wang, Di Chen, Meixin Zhu✉️, Shaojie Shen.\
   ***<font color = "#224B8D">Submitted to IEEE Transactions on Automation Science and Engineering</font>***
 
+### Published / Accepted Papers
 - **Preference Aligned Diffusion Planner for Quadrupedal Locomotion Control.**  
 Xinyi Yuan\*, **<u> Zhiwei Shang* </u>**, Zifan Wang, Chenkai Wang, Zhao Shan, Meixin Zhu✉️, Chenjia Bai✉️, Weiwei Wan, Kensuke Harada, Xuelong Li.\
-  ***<font color = "#224B8D">Submitted to 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems</font>*** \| [[Website](https://shangjaven.github.io/preference-aligned-diffusion-legged/)]
+  ***<font color = "#224B8D">2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)</font>*** \| [[Website](https://shangjaven.github.io/preference-aligned-diffusion-legged/)]
 
-### Published / Accepted Papers
 - **Dynamic High-Order Control Barrier Functions with Diffuser for Safety-Critical Trajectory Planning at Signal-Free Intersections.**  
 Di Chen, Ruiguo Zhong, Kehua Chen, **<u>Zhiwei Shang</u>**, Meixin Zhu✉️, Edward Chung.\
   ***<font color = "#224B8D">IEEE Transactions on Intelligent Transportation Systems (IF=7.9, JCR Q1), 2025</font>***
