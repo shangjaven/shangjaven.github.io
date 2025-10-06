@@ -63,6 +63,14 @@ B.E. in Hydrology and Water Resources Engineering<br />
 \* Co-first author, ✉️ Corresponding author.
 
 ### Working Papers
+- **EFedPOB: Sample-Efficient Federated Prompt Optimization via Bandits.**  
+Pingchen Lu\*, Zhi Hong\*, **<u> Zhiwei Shang </u>**, Zhiyong Wang, Yikun Ban, Yao Shu, Min Zhang, Shuang Qiu, Zhongxiang Dai✉️.\
+  ***<font color = "#224B8D">Submitted to The Fourteenth International Conference on Learning Representations (ICLR 2026)</font>***
+
+- **T-POP: Test-Time Personalization with Online Preference Feedback.**  
+Zikun Qu, Min Zhang, Mingze Kong, Xiang Li, **<u>Zhiwei Shang</u>**, Zhiyong Wang, Yikun Ban, Shuang Qiu, Yao Shu, Zhongxiang Dai✉️.\
+  ***<font color = "#224B8D">Submitted to The Fourteenth International Conference on Learning Representations (ICLR 2026)</font>***
+
 - **Effective Reinforcement Learning Control using Conservative Soft Actor-Critic.**  
 **<u> Zhiwei Shang* </u>**, Xinyi Yuan\*, Wenjun Huang, Yunduan Cui, Pengqin Wang, Di Chen, Meixin Zhu✉️, Shaojie Shen.\
   ***<font color = "#224B8D">Submitted to IEEE Transactions on Automation Science and Engineering</font>***
@@ -113,6 +121,7 @@ Renxing Li, **<u>Zhiwei Shang</u>**, Chunhua Zheng, Huiyun Li, Qing Liang, Yundu
 <!-- - Conference Reviewer for ICML, NeurIPS, ICLR, AISTATS, ACML, AAAI, IJCAI, CIKM, SIGKDD. -->
 ### Conference Reviewer 
 - IROS 2025
+- ICRA 2026
   
 ### Journal Reviewer 
 - IEEE Transactions on Intelligent Vehicles
