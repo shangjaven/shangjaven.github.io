@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiwei Shang"
-description              : "Focusing on Large Language Models, Data-centric AI and Reinforcement Learning."
+description              : "Focusing on Large Language Models, LLM-based Agents and Reinforcement Learning."
 repository               : "shangjaven/shangjaven.github.io"
 google_scholar_stats_use_cdn : true
 
