@@ -19,9 +19,9 @@ redirect_from:
 
 👋Hi there, I am Zhiwei Shang (尚致违), currently a **first-year** Computer Science Ph.D. student in the [School of Data Science](https://sds.cuhk.edu.cn/en) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), supervised by [Prof. Zhongxiang Dai](https://daizhongxiang.github.io/).
 
-Before this, I was a research assistant at the [Intelligent Transportation (INTR) Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/intelligent-transportation/) in the [System Hub](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/), [Hong Kong University of Science and Technology (Guangzhou campus)](https://www.hkust-gz.edu.cn/), supervised by [Prof. Meixin Zhu](https://scholar.google.com.hk/citations?user=5Ysgg7AAAAAJ). I received my Master of Electronic and Information Engineering in Computer Technology from [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) in 2023, supervised by [Prof. Yunduan Cui](https://cuiyunduan.vercel.app/). I got my Bachelor of Engineering in Hydrology and Water Resources Engineering from [Sichuan University](https://en.scu.edu.cn/) in 2020. In addition, from February 2024 to September 2024, I worked remotely as a research assistant with [Dr. Chenjia Bai](https://baichenjia.github.io/) at the [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/).
+Before this, I was a research assistant at the [Intelligent Transportation (INTR) Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/intelligent-transportation/) in the [System Hub](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/), [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by [Prof. Meixin Zhu](https://scholar.google.com.hk/citations?user=5Ysgg7AAAAAJ). I received my Master of Electronic and Information Engineering in Computer Technology from [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) in 2023, supervised by [Prof. Yunduan Cui](https://cuiyunduan.vercel.app/). I got my Bachelor of Engineering in Hydrology and Water Resources Engineering from [Sichuan University](https://en.scu.edu.cn/) in 2020. In addition, from February 2024 to September 2024, I worked as a research assistant with [Dr. Chenjia Bai](https://baichenjia.github.io/) at the [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/).
 
-My current research interests mainly lie in Large Language Models (LLMs), Data-centric AI and Reinforcement Learning (RL). I believe that the development of Artificial Intelligence can help us build a better, safer and more equal society！You’re more than welcome to write me an email to connect (or make friends)! Let’s explore the exciting world together! 🌌
+My current research interests mainly lie in Large Language Models (LLMs), LLM-based Agents and Reinforcement Learning (RL). I believe that the development of Artificial Intelligence can help us build a better, safer and more equal society！You’re more than welcome to write me an email to connect (or make friends)! Let’s explore the exciting world together! 🌌
 
 
 <span class='anchor' id='edu'></span>
@@ -42,7 +42,7 @@ B.E. in Hydrology and Water Resources Engineering<br />
 <span class='anchor' id='exp'></span>
 
 # 💼 Research Experiences
-- *2023.08 - 2025.06*, Research Assistant @[Hong Kong University of Science and Technology (Guangzhou campus)](https://www.hkust-gz.edu.cn/), advised by [Prof. Meixin Zhu](https://meixinzhu.github.io/).
+- *2023.08 - 2025.06*, Research Assistant @[Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by [Prof. Meixin Zhu](https://meixinzhu.github.io/).
 
 - *2024.02 - 2024.09*, Research Assistant @[Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), advised by [Dr. Chenjia Bai](https://baichenjia.github.io/).
 
@@ -51,31 +51,58 @@ B.E. in Hydrology and Water Resources Engineering<br />
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2026.04*: &nbsp; 🎉 Three papers (including one <span style="color:red">**Spotlight**</span> and two Regular) are accepted by the Forty-Third International Conference on Machine Learning (ICML 2026).
+- *2025.09*: &nbsp; 👨‍🎓 I was admitted to the Ph.D. program at the School of Data Science, The Chinese University of Hong Kong, Shenzhen.
 - *2025.06*: &nbsp; 🎉 One paper is accepted by 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025).
-- *2025.05*: &nbsp; 👨‍🎓 I was admitted to the Ph.D. program at the School of Data Science, The Chinese University of Hong Kong, Shenzhen.
 - *2025.05*: &nbsp; 🎉 Our paper is accepted by the IEEE Transactions on Intelligent Transportation Systems (T-ITS).
-- *2024.10*: &nbsp; 📌 Please view our new work on diffusion-based locomotion policy on [project website](https://shangjaven.github.io/preference-aligned-diffusion-legged/)!
 - *2024.03*: &nbsp; 🎉 Our paper is accepted by the 35th IEEE Intelligent Vehicles Symposium (IV 2024).
 
 <span class='anchor' id='pub'></span>
 
-# 📝 Publications 
+# 📝 Publications & Patents
 \* Co-first author, ✉️ Corresponding author.
 
+### Patents
+- **<u> Zhiwei Shang* </u>**, Yunduan Cui, Zhengkun Yi, Xiang Xie, Huiyun Li. **AC framework based on relative entropy regularization and its application to control robotic arms.** CN Patent Application CN116128017A, May 16, 2023.
+
 ### Working Papers
+- **Effective Reinforcement Learning Control using Conservative Soft Actor-Critic.**  
+**<u> Zhiwei Shang* </u>**, Xinyi Yuan\*, Wenjun Huang, Yunduan Cui, Pengqin Wang, Di Chen, Meixin Zhu✉️, Shaojie Shen.\
+  ***<font color = "#224B8D">Submitted to 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026)</font>***
+
+- **Fusion is the New Mutation: Bandit-Guided Evolution on Workflow Graphs.**  
+**<u> Zhiwei Shang </u>**, Jiahang Sun, Mingrong Gong, Mingze Kong, Qu Zikun, Pingchen Lu, Junhao Dong, Zhipiao Liu, Hongwei Yang, Guoqing Xie, Yao Shu, Zhongxiang Dai✉️.\
+  ***<font color = "#224B8D">Submitted to 43rd International Conference on Machine Learning (ICML 2026) (2nd Workshop on Compositional Learning: Safety, Interpretability, and Agents)</font>***
+
+- **CB-Orchestrator: Adaptive Workflow Optimization for LLM Agents via Contextual Bandits.**  
+Jiahang Sun, **<u> Zhiwei Shang </u>**, Zhipiao Liu, Hongwei Yang, Guoqing Xie, Shuang Qiu, Zhongxiang Dai✉️.\
+  ***<font color = "#224B8D">Submitted to 43rd International Conference on Machine Learning (ICML 2026) (2nd Workshop on Compositional Learning: Safety, Interpretability, and Agents)</font>***
+
+- **A Rugged Compass in Flatland: Curvature-Aware Rectification for Secure Test-Time Adaptation.**  
+Mingrong Gong, Junhao Dong, **<u> Zhiwei Shang </u>**, Daizong Liu, Siheng Wang, Zhengtao Yao, Ting Peng, Sergio Escalera, Xinghua Qu, Yew-Soon Ong✉️.\
+  ***<font color = "#224B8D">Submitted to 40th Annual Conference on Neural Information Processing Systems (NeurIPS 2026)</font>***
+
 - **EFedPOB: Sample-Efficient Federated Prompt Optimization via Bandits.**  
 Pingchen Lu\*, Zhi Hong\*, **<u> Zhiwei Shang </u>**, Zhiyong Wang, Yikun Ban, Yao Shu, Min Zhang, Shuang Qiu, Zhongxiang Dai✉️.\
-  ***<font color = "#224B8D">Submitted to The Fourteenth International Conference on Learning Representations (ICLR 2026)</font>***
+  ***<font color = "#224B8D">Submitted to 43rd International Conference on Machine Learning (ICML 2026)</font>***
+
+- **VLM safety via geometry reference.**  
+Mingrong Gong, Junhao Dong, Xuanhui Lin, **<u> Zhiwei Shang </u>**, Jiaming Zhang, Daizong Liu, Yikai Wang, Ting Peng, Sergio Escalera, Xinghua Qu, Yew-Soon Ong✉️.\
+  ***<font color = "#224B8D">Submitted to 40th Annual Conference on Neural Information Processing Systems (NeurIPS 2026)</font>***
+
+### Published / Accepted Papers
+- **MASPOB: Bandit-Based Prompt Optimization for Multi-Agent Systems with Graph Neural Networks.**  
+Zhi Hong\*, Qian Zhang\*, Jiahang Sun, **<u>Zhiwei Shang</u>**, Mingze Kong, Xiangyi Wang, Yao Shu, Zhongxiang Dai✉️.\
+  ***<font color = "#224B8D">43rd International Conference on Machine Learning (ICML 2026)</font> <font color = "red">(Spotlight, Top 2.2%)</font>***
 
 - **T-POP: Test-Time Personalization with Online Preference Feedback.**  
 Zikun Qu, Min Zhang, Mingze Kong, Xiang Li, **<u>Zhiwei Shang</u>**, Zhiyong Wang, Yikun Ban, Shuang Qiu, Yao Shu, Zhongxiang Dai✉️.\
-  ***<font color = "#224B8D">Submitted to The Fourteenth International Conference on Learning Representations (ICLR 2026)</font>***
+  ***<font color = "#224B8D">43rd International Conference on Machine Learning (ICML 2026)</font>***
 
-- **Effective Reinforcement Learning Control using Conservative Soft Actor-Critic.**  
-**<u> Zhiwei Shang* </u>**, Xinyi Yuan\*, Wenjun Huang, Yunduan Cui, Pengqin Wang, Di Chen, Meixin Zhu✉️, Shaojie Shen.\
-  ***<font color = "#224B8D">Submitted to IEEE Transactions on Automation Science and Engineering</font>***
+- **Social Hippocampus Memory Learning.**  
+Liping Yi, Zhiming Zhao, Kewen Zhu, Xiang Li, **<u>Zhiwei Shang</u>**, Qinghua Hu✉️.\
+  ***<font color = "#224B8D">43rd International Conference on Machine Learning (ICML 2026)</font>***
 
-### Published / Accepted Papers
 - **Preference Aligned Diffusion Planner for Quadrupedal Locomotion Control.**  
 Xinyi Yuan\*, **<u> Zhiwei Shang* </u>**, Zifan Wang, Chenkai Wang, Zhao Shan, Meixin Zhu✉️, Chenjia Bai✉️, Weiwei Wan, Kensuke Harada, Xuelong Li.\
   ***<font color = "#224B8D">2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)</font>*** \| [[Website](https://shangjaven.github.io/preference-aligned-diffusion-legged/)]
@@ -119,12 +146,9 @@ Renxing Li, **<u>Zhiwei Shang</u>**, Chunhua Zheng, Huiyun Li, Qing Liang, Yundu
 
 # 💻 Services
 <!-- - Conference Reviewer for ICML, NeurIPS, ICLR, AISTATS, ACML, AAAI, IJCAI, CIKM, SIGKDD. -->
-### Conference Reviewer 
-- IROS 2025
-- ICRA 2026
-  
-### Journal Reviewer 
-- IEEE Transactions on Intelligent Vehicles
-- Applied Intelligence
-  
+- Conference Reviewer: ICML, NeurIPS, IROS, ICRA
+- Journal Reviewer: IEEE Transactions on Intelligent Vehicles, Applied Intelligence
+- Teaching Assistant, School of Data Science, The Chinese University of Hong Kong, Shenzhen:
+  - **DDA 2001** Introduction to Data Science (*Spring 2026*)
+  - **CSC 4303** Network Programming (*Spring 2026*)
 <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5dl7zaq932f&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> -->
