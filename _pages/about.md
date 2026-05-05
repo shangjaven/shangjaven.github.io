@@ -51,7 +51,7 @@ B.E. in Hydrology and Water Resources Engineering<br />
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2026.04*: &nbsp; 🎉 Three papers (including one <span style="color:red">**Spotlight**</span> and two Regular) are accepted by the Forty-Third International Conference on Machine Learning (ICML 2026).
+- *2026.04*: &nbsp; 🎉 Three papers (including one <span style="color:red">**Spotlight**</span> and two Regular) are accepted by 43rd International Conference on Machine Learning (ICML 2026).
 - *2025.09*: &nbsp; 👨‍🎓 I was admitted to the Ph.D. program at the School of Data Science, The Chinese University of Hong Kong, Shenzhen.
 - *2025.06*: &nbsp; 🎉 One paper is accepted by 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025).
 - *2025.05*: &nbsp; 🎉 Our paper is accepted by the IEEE Transactions on Intelligent Transportation Systems (T-ITS).
