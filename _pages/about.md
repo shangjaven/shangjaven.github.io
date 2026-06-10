@@ -51,6 +51,7 @@ B.E. in Hydrology and Water Resources Engineering<br />
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2026.06*: &nbsp; 🎉 Three papers are accepted by 43rd International Conference on Machine Learning Workshop (ICML 2026 Workshop).
 - *2026.04*: &nbsp; 🎉 Three papers (including one <span style="color:red">**Spotlight**</span> and two Regular) are accepted by 43rd International Conference on Machine Learning (ICML 2026).
 - *2025.09*: &nbsp; 👨‍🎓 I was admitted to the Ph.D. program at the School of Data Science, The Chinese University of Hong Kong, Shenzhen.
 - *2025.06*: &nbsp; 🎉 One paper is accepted by 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025).
@@ -67,16 +68,8 @@ B.E. in Hydrology and Water Resources Engineering<br />
 
 ### Working Papers
 - **Effective Reinforcement Learning Control using Conservative Soft Actor-Critic.**  
-**<u> Zhiwei Shang* </u>**, Xinyi Yuan\*, Wenjun Huang, Yunduan Cui, Pengqin Wang, Di Chen, Meixin Zhu✉️, Shaojie Shen.\
+**<u> Zhiwei Shang* </u>**, Xinyi Yuan\*, Wenjun Huang, Yunduan Cui, Di Chen, Meixin Zhu✉️.\
   ***<font color = "#224B8D">Submitted to 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026)</font>***
-
-- **Fusion is the New Mutation: Bandit-Guided Evolution on Workflow Graphs.**  
-**<u> Zhiwei Shang </u>**, Jiahang Sun, Mingrong Gong, Mingze Kong, Qu Zikun, Pingchen Lu, Junhao Dong, Zhipiao Liu, Hongwei Yang, Guoqing Xie, Yao Shu, Zhongxiang Dai✉️.\
-  ***<font color = "#224B8D">Submitted to 43rd International Conference on Machine Learning (ICML 2026) (2nd Workshop on Compositional Learning: Safety, Interpretability, and Agents)</font>***
-
-- **CB-Orchestrator: Adaptive Workflow Optimization for LLM Agents via Contextual Bandits.**  
-Jiahang Sun, **<u> Zhiwei Shang </u>**, Zhipiao Liu, Hongwei Yang, Guoqing Xie, Shuang Qiu, Zhongxiang Dai✉️.\
-  ***<font color = "#224B8D">Submitted to 43rd International Conference on Machine Learning (ICML 2026) (2nd Workshop on Compositional Learning: Safety, Interpretability, and Agents)</font>***
 
 - **A Rugged Compass in Flatland: Curvature-Aware Rectification for Secure Test-Time Adaptation.**  
 Mingrong Gong, Junhao Dong, **<u> Zhiwei Shang </u>**, Daizong Liu, Siheng Wang, Zhengtao Yao, Ting Peng, Sergio Escalera, Xinghua Qu, Yew-Soon Ong✉️.\
@@ -91,6 +84,19 @@ Mingrong Gong, Junhao Dong, Xuanhui Lin, **<u> Zhiwei Shang </u>**, Jiaming Zhan
   ***<font color = "#224B8D">Submitted to 40th Annual Conference on Neural Information Processing Systems (NeurIPS 2026)</font>***
 
 ### Published / Accepted Papers
+- **Fusion is the New Mutation: Bandit-Guided Evolution on Workflow Graphs.**  
+**<u> Zhiwei Shang </u>**, Jiahang Sun, Mingrong Gong, Mingze Kong, Qu Zikun, Pingchen Lu, Junhao Dong, Zhipiao Liu, Hongwei Yang, Guoqing Xie, Yao Shu, Zhongxiang Dai✉️.\
+  ***<font color = "#224B8D">43rd International Conference on Machine Learning (ICML 2026) (2nd Workshop on Compositional Learning: Safety, Interpretability, and Agents)</font>***
+
+- **CB-Orchestrator: Adaptive Workflow Optimization for LLM Agents via Contextual Bandits.**  
+Jiahang Sun, **<u> Zhiwei Shang </u>**, Zhipiao Liu, Hongwei Yang, Guoqing Xie, Shuang Qiu, Zhongxiang Dai✉️.\
+  ***<font color = "#224B8D">43rd International Conference on Machine Learning (ICML 2026) (2nd Workshop on Compositional Learning: Safety, Interpretability, and Agents)</font>***
+
+- **Workflow-R1: Group Sub-sequence Policy Optimization for Multi-turn Workflow Construction.**  
+Mingze Kong, Zikun Qu, Zhongquan Zhou, Pengyu Liang, Xiang Li, **<u> Zhiwei Shang </u>**, Zhi Hong, Kaiyu Huang, Zhiyong Wang,
+Zhongxiang Dai✉️.\
+  ***<font color = "#224B8D">43rd International Conference on Machine Learning (ICML 2026) (Workshop on RL from World Feedback)</font>***
+
 - **MASPOB: Bandit-Based Prompt Optimization for Multi-Agent Systems with Graph Neural Networks.**  
 Zhi Hong\*, Qian Zhang\*, Jiahang Sun, **<u>Zhiwei Shang</u>**, Mingze Kong, Xiangyi Wang, Yao Shu, Zhongxiang Dai✉️.\
   ***<font color = "#224B8D">43rd International Conference on Machine Learning (ICML 2026)</font> <font color = "red">(Spotlight, Top 2.2%)</font>***
