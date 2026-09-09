@@ -3,10 +3,10 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Educations"
+  - title: "Education"
     url: "/#edu"
   
-  - title: "Experiences"
+  - title: "Experience"
     url: "/#exp"
   
   - title: "News"
