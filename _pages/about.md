@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋 Hi there! I am Zhiwei Shang, currently a **second-year** Computer Science Ph.D. student in the [School of Data Science](https://sds.cuhk.edu.cn/en) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), supervised by [Prof. Zhongxiang Dai](https://daizhongxiang.github.io/). I also work as an LLM Agent Researcher at [DeepWisdom](https://atoms.dev/metagpt).
+👋 Hi there! I am Zhiwei Shang, currently a **second-year** Computer Science Ph.D. student in the [School of Data Science](https://sds.cuhk.edu.cn/en) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), supervised by [Prof. Zhongxiang Dai](https://daizhongxiang.github.io/). 
+<!-- I also work as an LLM Agent Researcher at [DeepWisdom](https://atoms.dev/metagpt). -->
 
 Previously, I was a research assistant worked with [Prof. Meixin Zhu](https://meixinzhu.github.io/) at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) and [Dr. Chenjia Bai](https://baichenjia.github.io/) at the [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/). I received my M.E. in Computer Technology from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) in 2023, advised by [Prof. Yunduan Cui](https://cuiyunduan.vercel.app/), and my B.E. in Hydrology and Water Resources Engineering from [Sichuan University](https://en.scu.edu.cn/) in 2020.
 
@@ -61,7 +62,7 @@ Thesis: *Deep Learning-Based Runoff Prediction in the Upper Minjiang River Basin
 
 <div class="news-scroll" role="region" aria-label="News" tabindex="0" markdown="1">
 
-- *2026.07*: &nbsp; I joined **DeepWisdom** as an LLM Agent Researcher.
+<!-- - *2026.07*: &nbsp; I joined **DeepWisdom** as an LLM Agent Researcher. -->
 - *2026.06*: &nbsp; 🎉 Three papers were accepted to **ICML 2026 workshops**.
 - *2026.05*: &nbsp; 🎉 Received the **ICML 2026 Silver Reviewer Award**.
 - *2026.04*: &nbsp; 🎉 Three papers were accepted to **ICML 2026**, including one <span style="color:red">**Spotlight (Top 2.2%)**</span>.
