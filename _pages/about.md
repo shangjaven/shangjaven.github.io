@@ -132,7 +132,7 @@ Zhongxiang Dai✉️.<br />
 ***<font color = "#224B8D">ICML 2026 Workshop on RL from World Feedback.</font>***
 
 
-- **MASPOB: Bandit-Based Prompt Optimization for Multi-Agent Systems with Graph Neural Networks.**  
+- <strong class="selected-paper">MASPOB: Bandit-Based Prompt Optimization for Multi-Agent Systems with Graph Neural Networks.</strong>  
 Zhi Hong\*, Qian Zhang\*, Jiahang Sun, **<u>Zhiwei Shang</u>**, Mingze Kong, Xiangyi Wang, Yao Shu, Zhongxiang Dai✉️.<br />
 ***<font color = "#224B8D">ICML 2026</font> <font color = "red">(Spotlight, Top 2.2%)</font>***
 

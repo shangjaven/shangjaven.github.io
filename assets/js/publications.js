@@ -4,7 +4,7 @@
 
   var selected = document.getElementById('papers-selected');
   browser.querySelectorAll('#papers-full .publication-group').forEach(function (group) {
-    var papers = group.querySelectorAll('strong.first-author');
+    var papers = group.querySelectorAll('strong.first-author, strong.selected-paper');
     if (!papers.length) return;
     selected.appendChild(group.querySelector('h3').cloneNode(true));
     var list = document.createElement('ul');
